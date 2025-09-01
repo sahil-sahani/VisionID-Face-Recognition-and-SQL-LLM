@@ -57,8 +57,8 @@ if not st.session_state.logged_in:
 # If logged in, continue with the main application
 # Set up the page configuration for the main app
 st.set_page_config(
-    page_title="Student Analytics Dashboard",
-    page_icon="🎓",
+    page_title="VisionID",
+    page_icon="👁",
     layout="wide",
     initial_sidebar_state="expanded"
 )
